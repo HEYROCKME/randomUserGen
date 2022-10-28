@@ -29,16 +29,16 @@ button {
   border-radius: 5px;
 }
 
-.blue {
+.male {
   background-color: rgb(12, 12, 139);
 }
 
-img.blue {
+img.male {
   border: solid 6px rgb(11, 11, 110);
 }
-.purple {
+.female {
   background-color: rgb(66, 28, 76);
 }
-img.purple {
+img.female {
   border: solid 6px rgb(66, 28, 76);
 }
