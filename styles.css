@@ -23,6 +23,15 @@ button {
 }
 
 .blue {
+  background-color: rgb(12, 12, 139);
+}
+
+img.blue {
   border: solid 6px rgb(11, 11, 110);
-  background-color: blue;
+}
+.purple {
+  background-color: rgb(66, 28, 76);
+}
+img.purple {
+  border: solid 6px rgb(66, 28, 76);
 }
