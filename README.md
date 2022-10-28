@@ -1,3 +1,3 @@
 # randomUserGen
 
-Simple vue.js app from CDN
+Simple vue.js app with CDN, as thought by Tarversy Media
