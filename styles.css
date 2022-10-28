@@ -7,7 +7,7 @@ body {
   width: 50%;
 }
 
-#app img {
+img {
   width: 50%;
   margin: 0 auto;
   border-radius: 50%;
@@ -20,4 +20,9 @@ button {
   color: white;
   border: none;
   border-radius: 5px;
+}
+
+.blue {
+  border: solid 6px rgb(11, 11, 110);
+  background-color: blue;
 }
