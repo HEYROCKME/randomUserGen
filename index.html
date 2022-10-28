@@ -10,7 +10,7 @@
   <body>
     <div id="app">
       <h1>Hello, {{firstName}}!</h1>
-      <img v-bind:src="picture" v-bind:alt="fristName" />
+      <img v-bind:src="picture" v-bind:alt="`${firstName} ${lastName}`" />
       <h2>{{firstName}} {{lastName}}</h2>
       <h3>Email: {{email}}</h3>
       <button>Get Random User</button>
